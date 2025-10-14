@@ -1,0 +1,7 @@
+# Simplified logic for RAG retrieval
+query = user_input()
+retrieved_docs = retriever.search(query, top_k=5)
+context = "\n".join([d.content for d in retrieved_docs])
+prompt = f"Answer using context:\n{context}\nQuestion:{query}"
+response = llm.generate(prompt)
+return response
