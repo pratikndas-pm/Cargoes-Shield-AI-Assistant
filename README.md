@@ -33,4 +33,4 @@ LLM-powered insurance quoting and risk assistant built for Cargoes Shield (DP Wo
 | Adoption Rate | +30% | ✅ 45% |
 
 ![AI Product](https://img.shields.io/badge/Product-AI%20Assistant-purple)
-![Status](https://img.shields.io/badge/Status-Live-success
+
