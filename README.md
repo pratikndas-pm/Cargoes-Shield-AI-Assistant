@@ -31,3 +31,6 @@ LLM-powered insurance quoting and risk assistant built for Cargoes Shield (DP Wo
 | Quote Accuracy | 90% | ✅ 92% |
 | Response Latency | <2.5s | ✅ 2.1s |
 | Adoption Rate | +30% | ✅ 45% |
+
+![AI Product](https://img.shields.io/badge/Product-AI%20Assistant-purple)
+![Status](https://img.shields.io/badge/Status-Live-success
