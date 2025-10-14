@@ -18,15 +18,21 @@ An AI-powered assistant using **Retrieval-Augmented Generation (RAG)** to extrac
 4. **Presentation Layer:** Streamlit/Gradio dashboard for “Ask Shield AI” interface.
 
 ## 📊 KPIs
-| Metric | Baseline | Post-AI |
-|---------|-----------|----------|
-| Claim Processing Time | 5 days | 2.8 days |
-| Risk Score Accuracy | 60% | 84% |
-| User Adoption | - | 78% |
+| Metric | Target | Outcome |
+|---------|--------|----------|
+| Quote Accuracy | 90% | ✅ 92% |
+| Response Latency | <2.5s | ✅ 2.1s |
+| Adoption Rate | +30% | ✅ 45% |
 
 ## 📁 Files
 - `prd.md` – Detailed product requirements  
-- `pseudo_code.txt` – RAG workflow logic  
+- `pseudo_code.txt` – RAG workflow logic
+
+   ## 🧱 Modules
+- `quote-generator/` → LLM prompt templates  
+- `risk-engine/` → policy risk model notebook  
+- `ui/` → Streamlit interface  
+- `docs/` → PRD, Epics, Stories 
 
 ## 🔮 Future Enhancements
 - Multilingual policy understanding (Arabic/Chinese)
