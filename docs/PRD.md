@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-MVP%20v1.2-green)
 ![Author](https://img.shields.io/badge/Author-Pratik%20Das-lightgrey)
 
-> Comprehensive Product Requirement Document (PRD) for Cargoes Shield AI Assistant and Insurance Booking & Quoting System (B2B) underDigital Trade Solutions (DTS) ecosystem.
+> Comprehensive Product Requirement Document (PRD) for Cargoes Shield AI Assistant and Insurance Booking & Quoting System (B2B) under DP World’s Digital Trade Solutions (DTS) ecosystem.
 
 ---
 
