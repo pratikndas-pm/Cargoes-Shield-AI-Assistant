@@ -1,6 +1,6 @@
 # 🚢 Cargoes Shield – AI Risk & Quoting Assistant
 
-> AI-powered quoting and risk intelligence platform built on top of DP World’s Cargoes ecosystem.  
+> AI-powered quoting and risk intelligence platform built on top of Cargoes ecosystem.  
 > Designed to automate insurance policy evaluation, premium recommendations, and claim risk scoring.
 
 ---
