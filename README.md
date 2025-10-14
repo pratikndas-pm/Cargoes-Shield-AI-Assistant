@@ -64,3 +64,6 @@
 ---
 
 ## 🧩 Folder Structure
+/docs → PRD, Epics, Stories, Test plans
+/ui → Wireframes and Figma references
+/data → Schema and mock datasets
