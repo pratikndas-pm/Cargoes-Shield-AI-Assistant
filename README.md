@@ -32,3 +32,12 @@ An AI-powered assistant using **Retrieval-Augmented Generation (RAG)** to extrac
 - Multilingual policy understanding (Arabic/Chinese)
 - Integration with Cargoes Community System for unified insights
 - Self-service analytics dashboard
+## 📊 Features
+- Natural language report generator  
+- Policy clause retrieval (Top-k RAG)  
+- API integration with Cargoes APIs and CRM  
+
+## 📎 Artifacts
+- [PRD](./docs/CargoesShield_PRD.pdf)  
+- [User Stories](./docs/UserStories.md)  
+- [UI Wireframes](./ui/wireframes.png)
