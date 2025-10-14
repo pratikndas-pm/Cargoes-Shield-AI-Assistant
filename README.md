@@ -18,6 +18,7 @@
 | Model | LLM with retrieval (RAG), risk scoring | GPT-4o, LangChain |
 | API | Policy, Quoting, CRM | REST, Azure Functions |
 | UI | Shield Assistant Dashboard | Streamlit / React |
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3997655e-7e2d-4e1d-b581-9ef03707df7c" />
 
 ---
 
