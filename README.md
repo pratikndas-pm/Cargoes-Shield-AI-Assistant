@@ -25,7 +25,7 @@
 ## 🧩 Documentation Index
 | Artifact | Description | Link |
 |-----------|--------------|------|
-| 📘 PRD | Full product requirements document with objectives, success metrics, scope | [View PRD](.
+| 📘 PRD | Full product requirements document with objectives, success metrics, scope | [View PRD](./docs/PRD.md)
 | 🧾 User Stories | Gherkin-format stories aligned to Jira tickets | [View User Stories](./docs/UserStories.md) |
 | ✅ Testing Criteria | Model testing, functional test cases, QA validation flows | [View Testing Criteria](./docs/TestingCriteria.md) |
 | 🎨 Frontend & Model Guidelines | Design specs + LLM prompt engineering standards | [View Frontend Guide](./docs/Frontend_Model_Guidelines.md) |
