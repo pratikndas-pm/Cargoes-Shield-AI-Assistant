@@ -53,13 +53,40 @@
 
 ---
 
-## 📈 Success Metrics (Product KPIs)
-| Metric | Goal | Achieved |
-|---------|------|-----------|
-| Precision@K | 0.85 | ✅ 0.88 |
-| Quote Latency | <3s | ✅ 2.4s |
-| Clause Accuracy | >90% | ✅ 93% |
-| User Adoption | 40% | ✅ 45% |
+
+### 💰 Revenue & Commercial KPIs
+
+| KPI | Definition | Target | Data Source |
+|------|-------------|---------|--------------|
+| **Total Premiums Processed (AED)** | Total value of all insurance policies purchased through Cargoes Shield. | ≥ AED **10M / month** | Payment Gateway / CRM |
+| **Average Policy Value (AED)** | Mean value per issued policy across all providers. | ≥ **5,000 AED** | CRM / Finance DB |
+| **Quote-to-Policy Conversion Rate** | Percentage of quotes that convert into paid policies. | ≥ **35%** | Analytics / CRM |
+| **Gross Written Premium (GWP)** | Total premiums booked before deductions. | ≥ **AED 120M / Year** | Finance Reports |
+| **Commission Margin per Policy (%)** | Net revenue margin after insurer commissions. | ≥ **12%** | Financial Ledger |
+| **Underwriter Approval SLA** | Average time from AI quote to final underwriter approval. | ≤ **15 minutes** | Underwriter Console Logs |
+| **Payment Success Rate** | Percentage of successful transactions out of all payment attempts. | ≥ **98%** | Payment Gateway Logs |
+| **Refund / Failure Rate (%)** | Ratio of failed or refunded transactions to total transactions. | ≤ **1%** | Finance & Payment Reports |
+| **Renewal Retention Rate** | Percentage of users renewing policies within 15 days of expiry. | ≥ **75%** | CRM / Renewal Module |
+| **Active Insurer Partnerships** | Number of insurer APIs actively integrated and quoting. | ≥ **5** by Q1 | Integration Dashboard |
+
+> 💡 *Objective:* These KPIs measure the financial health, operational speed, and transaction reliability of the Cargoes Shield AI quoting and booking ecosystem.
+
+### 🤖 Model & AI Performance KPIs
+
+| KPI | Definition | Target | Data Source |
+|------|-------------|---------|--------------|
+| **Precision@k** | Measures how accurately the AI retrieves relevant policy or quote information within the top-k responses. | ≥ **0.85** | ModelOps Validation Suite |
+| **Recall** | Percentage of all relevant answers or quotes correctly retrieved by the AI. | ≥ **0.80** | Model Evaluation Reports |
+| **F1 Score** | Combined measure of precision and recall for balanced model performance. | ≥ **0.82** | Model Testing Dashboard |
+| **Latency (p95)** | 95th percentile of AI response time per query (user-perceived). | ≤ **2.5 seconds** | API Gateway Metrics |
+| **AI Response Helpfulness Rate** | Percentage of AI responses rated “Helpful” by users. | ≥ **85%** | Feedback Logs |
+| **Model Drift Rate** | Month-over-month drop in model accuracy due to outdated data or context. | ≤ **3%** | Model Monitoring Reports |
+| **Retraining Frequency** | Frequency of scheduled model retraining to maintain accuracy and reduce drift. | Every **30 days** | MLOps Pipeline |
+| **Feedback Incorporation Rate** | Percentage of low-rated AI responses used in retraining datasets. | ≥ **70%** | Feedback Data Pipeline |
+| **Average Confidence Score (AI Answers)** | Mean confidence level returned by the model per answer or quote. | ≥ **0.90** | Model Inference Logs |
+| **Model Explainability Coverage** | Percentage of AI responses with cited sources or document references. | 100% | AI Audit Logs |
+
+> ⚙️ *Objective:* Maintain high trust, transparency, and predictability in AI-driven recommendations by balancing accuracy, latency, and explainability.
 
 ---
 
