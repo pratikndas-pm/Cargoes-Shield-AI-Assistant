@@ -25,8 +25,7 @@
 ## 🧩 Documentation Index
 | Artifact | Description | Link |
 |-----------|--------------|------|
-| 📘 PRD | Full product requirements document with objectives, success metrics, scope | [View PRD](./docs/PRD.md) |
-| 🧱 Epics | Epics broken into modules (AI Quoting, Risk Model, Policy Search, Admin Dashboard) | [View Epics](./docs/Epics.md) |
+| 📘 PRD | Full product requirements document with objectives, success metrics, scope | [View PRD](.
 | 🧾 User Stories | Gherkin-format stories aligned to Jira tickets | [View User Stories](./docs/UserStories.md) |
 | ✅ Testing Criteria | Model testing, functional test cases, QA validation flows | [View Testing Criteria](./docs/TestingCriteria.md) |
 | 🎨 Frontend & Model Guidelines | Design specs + LLM prompt engineering standards | [View Frontend Guide](./docs/Frontend_Model_Guidelines.md) |
