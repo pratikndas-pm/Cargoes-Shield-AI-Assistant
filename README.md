@@ -2,6 +2,8 @@
 
 > AI-powered quoting and risk intelligence platform built on top of Cargoes ecosystem.  
 > Designed to automate insurance policy evaluation, premium recommendations, and claim risk scoring.
+>
+🔗 **Try the app:** [https://cargoes-shield-ai-assistant-argptflzzprxebd4jiklrg.streamlit.app/]
 
 ---
 
