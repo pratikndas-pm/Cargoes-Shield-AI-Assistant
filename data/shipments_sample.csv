@@ -1,0 +1,11 @@
+origin,destination,route,cargo_type,cargo_value_aed,weight_kg
+Dubai,Rotterdam,ASIA-EU,Electronics,250000,1200
+Jebel Ali,Hamburg,ASIA-EU,Textiles,80000,3500
+Antwerp,New York,EU-NA,Machinery,150000,4200
+Shanghai,Mombasa,ASIA-AFRICA,Automotive Parts,120000,2800
+Rotterdam,Lagos,EU-AFRICA,Pharmaceuticals,200000,900
+Los Angeles,Buenos Aires,NA-SA,Electronics,95000,1500
+Doha,Valencia,ASIA-EU,Machinery,180000,3900
+Barcelona,Cape Town,EU-AFRICA,Textiles,60000,2100
+Genoa,Boston,EU-NA,Automotive Parts,140000,2500
+Mumbai,Durban,ASIA-AFRICA,Pharmaceuticals,220000,1600

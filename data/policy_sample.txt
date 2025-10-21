@@ -1,1 +1,13 @@
+Cargo Insurance Policy — Sample Text
 
+Coverage: This policy covers physical loss or damage to insured cargo while in transit, including ocean, air, and land carriage, subject to the terms herein.
+
+Exclusions: The policy excludes loss or damage caused directly or indirectly by war, strikes, riots, civil commotion, nuclear incidents, inherent vice, ordinary leakage, delay, and willful misconduct of the insured.
+
+Limits: The insurer's liability shall not exceed the declared cargo value per shipment as stated in the Certificate of Insurance.
+
+Deductible: The insured is responsible for the amount specified as deductible, which shall be applied to each claim before indemnity is payable by the insurer.
+
+Claims: Notice of loss must be provided within 7 days of discovery. Documentation shall include bill of lading, invoices, packing lists, and survey reports where applicable.
+
+Governing Law: This policy shall be governed by and construed in accordance with the laws of the issuing jurisdiction.
